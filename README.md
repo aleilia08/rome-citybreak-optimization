@@ -31,10 +31,10 @@ The optimization selects the best combination of options such that:
 ---
 
 ## How to run
-1. Install dependencies:
 ```bash
-pip install pulp ```
+1. Install dependencies:
+pip install pulp
 
 2. Run the optimization model:
-```bash
-python rome_citybreak_lp.py ```
+python rome_citybreak_lp.py
+
